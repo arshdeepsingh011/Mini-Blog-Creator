@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//mini-Blog-Creator/static/css/main.fc75b97f.css",
+    "main.js": "//mini-Blog-Creator/static/js/main.b90ee2eb.js",
+    "index.html": "//mini-Blog-Creator/index.html",
+    "main.fc75b97f.css.map": "//mini-Blog-Creator/static/css/main.fc75b97f.css.map",
+    "main.b90ee2eb.js.map": "//mini-Blog-Creator/static/js/main.b90ee2eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc75b97f.css",
+    "static/js/main.b90ee2eb.js"
+  ]
+}
